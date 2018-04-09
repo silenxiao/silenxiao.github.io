@@ -1,5 +1,0 @@
-[akka学习教程](https://blog.csdn.net/column/details/14349.html)
-
-[深入理解Java](https://blog.csdn.net/javazejian)
-
-[Spring 学习](https://blog.csdn.net/windsunmoon/article/category/2848657)
