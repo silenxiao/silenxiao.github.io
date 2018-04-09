@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "深入理解Java类型信息(Class对象)与反射机制"
+categories: Java
+tags:  Java BLOG
+author: silenxiao
+---
+
+* content
+{:toc}
+
 出自[【zejian的博客】](https://blog.csdn.net/javazejian/article/details/70768369)
 
 本篇主要是深入对Java中的Class对象进行分析，这对后续深入理解反射技术非常重要，主要内容如下：

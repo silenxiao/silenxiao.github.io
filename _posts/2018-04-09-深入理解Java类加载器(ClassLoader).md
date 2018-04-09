@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "深入理解Java类加载器(ClassLoader)"
+categories: Java
+tags:  Java BLOG
+author: silenxiao
+---
+
+* content
+{:toc}
+
 出自[【zejian的博客】](https://blog.csdn.net/javazejian/article/details/73413292)
 
 ## 类加载的机制的层次结构
